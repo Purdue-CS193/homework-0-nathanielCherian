@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+# My Favorite things about CS193
+- Code code code!
+
 This is my test edit.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
