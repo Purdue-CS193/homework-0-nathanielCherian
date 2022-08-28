@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Nathaniels's First CS193 Homework
 
-# My Favorite things about CS193
+## My Favorite things about CS193
 - Code code code!
 
 This is my test edit.
